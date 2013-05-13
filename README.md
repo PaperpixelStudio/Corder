@@ -1,7 +1,9 @@
 REcorder
 ========
 
-Use processing to generate ready-to-laser-cut objects using physical data (voice spectrum,...)
+Use processing to generate ready-to-laser-cut objects using physical data.
+
+Currently, a voice spectrum generates an earring.
 
 **Note:** while this project uses processing as a graphics library, this is a java (and not a pde) project. This allows developers to code processing sketches in their favorite IDE, wich is likely to be a lot better than the processing one.
 
